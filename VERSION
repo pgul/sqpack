@@ -1,0 +1,3 @@
+sqpack 1.2-stable
+cvs tag: sqpack-1_2-stable
+required: fidoconf 0.14-stable, smapi-2.2-stable
